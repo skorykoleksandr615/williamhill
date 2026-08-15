@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://williamhill.pics/sitemap.xml
+Sitemap: https://williamhill.pics/sitemap_index.xml
